@@ -1,0 +1,9 @@
+.header {
+  border: 1px solid var(--twitter-background);
+  text-justify: auto;
+  flex: 0.9;
+  padding: 10px;
+  background-color: turquoise;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
